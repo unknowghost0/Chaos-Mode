@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\cmz modded\CastleForge-main updated\CastleForge\Mods\Chaos Mode\obj\x86\Release\ChaosMod.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cmz modded\CastleForge-main updated\CastleForge\Mods\Chaos Mode\obj\x86\Release\ChaosMod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cmz modded\CastleForge-main updated\Build\Release\!Mods\ChaosMod.dll
+C:\Users\Admin\Documents\cmz modded\CastleForge-main updated\CastleForge\Mods\Chaos Mode\obj\x86\Release\ChaosMod.dll
